@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#vidDiv{
+  /*display:none;*/
+  border: 10px solid grey;
+  float:left;
+}
+
+#btnVidCap{
+  clear:both
+}
+
+.clearfix{
+  clear:both;
+}
